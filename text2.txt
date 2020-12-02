@@ -1,1 +1,2 @@
-zsh:1: command not found: wq
+I m adding new text
+dfgbdflbjdfj
